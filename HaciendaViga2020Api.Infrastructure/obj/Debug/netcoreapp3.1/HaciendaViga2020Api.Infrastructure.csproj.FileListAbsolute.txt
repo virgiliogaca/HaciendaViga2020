@@ -1,0 +1,15 @@
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Infrastructure\bin\Debug\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.deps.json
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Infrastructure\bin\Debug\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.runtimeconfig.json
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Infrastructure\bin\Debug\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.runtimeconfig.dev.json
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Infrastructure\bin\Debug\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.dll
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Infrastructure\bin\Debug\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.pdb
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Infrastructure\bin\Debug\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.Abstractions.dll
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Infrastructure\bin\Debug\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.Abstractions.pdb
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Infrastructure\obj\Debug\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.csprojAssemblyReference.cache
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Infrastructure\obj\Debug\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Infrastructure\obj\Debug\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.AssemblyInfo.cs
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Infrastructure\obj\Debug\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Infrastructure\obj\Debug\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.csproj.CopyComplete
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Infrastructure\obj\Debug\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.dll
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Infrastructure\obj\Debug\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.pdb
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Infrastructure\obj\Debug\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.genruntimeconfig.cache

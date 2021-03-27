@@ -1,0 +1,12 @@
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Core.Abstractions\bin\Debug\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.deps.json
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Core.Abstractions\bin\Debug\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.dll
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Core.Abstractions\bin\Debug\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.pdb
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Core.Abstractions\bin\Debug\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.Abstractions.dll
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Core.Abstractions\bin\Debug\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.Abstractions.pdb
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Core.Abstractions\obj\Debug\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.csprojAssemblyReference.cache
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Core.Abstractions\obj\Debug\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.AssemblyInfoInputs.cache
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Core.Abstractions\obj\Debug\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.AssemblyInfo.cs
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Core.Abstractions\obj\Debug\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Core.Abstractions\obj\Debug\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.csproj.CopyComplete
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Core.Abstractions\obj\Debug\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.dll
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Core.Abstractions\obj\Debug\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.pdb

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.onprem",
+      "connectionId": "HaciendaViga2020Connection",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

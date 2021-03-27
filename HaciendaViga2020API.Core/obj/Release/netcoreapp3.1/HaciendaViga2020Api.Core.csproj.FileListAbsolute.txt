@@ -1,0 +1,9 @@
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020API.Core\bin\Release\netcoreapp3.1\HaciendaViga2020Api.Core.deps.json
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020API.Core\bin\Release\netcoreapp3.1\HaciendaViga2020Api.Core.dll
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020API.Core\bin\Release\netcoreapp3.1\HaciendaViga2020Api.Core.pdb
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020API.Core\obj\Release\netcoreapp3.1\HaciendaViga2020Api.Core.csprojAssemblyReference.cache
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020API.Core\obj\Release\netcoreapp3.1\HaciendaViga2020Api.Core.AssemblyInfoInputs.cache
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020API.Core\obj\Release\netcoreapp3.1\HaciendaViga2020Api.Core.AssemblyInfo.cs
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020API.Core\obj\Release\netcoreapp3.1\HaciendaViga2020Api.Core.csproj.CoreCompileInputs.cache
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020API.Core\obj\Release\netcoreapp3.1\HaciendaViga2020Api.Core.dll
+C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020API.Core\obj\Release\netcoreapp3.1\HaciendaViga2020Api.Core.pdb
