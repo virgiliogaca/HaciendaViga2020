@@ -10,3 +10,15 @@ C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Core.Abstrac
 C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Core.Abstractions\obj\Release\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.csproj.CopyComplete
 C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Core.Abstractions\obj\Release\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.dll
 C:\Users\vgarc\source\repos\HaciendaViga2020Api\HaciendaViga2020Api.Core.Abstractions\obj\Release\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.pdb
+C:\Users\inspi\Documents\repos\HaciendaViga2020API\HaciendaViga2020Api.Core.Abstractions\bin\Release\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.deps.json
+C:\Users\inspi\Documents\repos\HaciendaViga2020API\HaciendaViga2020Api.Core.Abstractions\bin\Release\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.dll
+C:\Users\inspi\Documents\repos\HaciendaViga2020API\HaciendaViga2020Api.Core.Abstractions\bin\Release\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.pdb
+C:\Users\inspi\Documents\repos\HaciendaViga2020API\HaciendaViga2020Api.Core.Abstractions\bin\Release\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.Abstractions.dll
+C:\Users\inspi\Documents\repos\HaciendaViga2020API\HaciendaViga2020Api.Core.Abstractions\bin\Release\netcoreapp3.1\HaciendaViga2020Api.Infrastructure.Abstractions.pdb
+C:\Users\inspi\Documents\repos\HaciendaViga2020API\HaciendaViga2020Api.Core.Abstractions\obj\Release\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.csprojAssemblyReference.cache
+C:\Users\inspi\Documents\repos\HaciendaViga2020API\HaciendaViga2020Api.Core.Abstractions\obj\Release\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.AssemblyInfoInputs.cache
+C:\Users\inspi\Documents\repos\HaciendaViga2020API\HaciendaViga2020Api.Core.Abstractions\obj\Release\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.AssemblyInfo.cs
+C:\Users\inspi\Documents\repos\HaciendaViga2020API\HaciendaViga2020Api.Core.Abstractions\obj\Release\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\inspi\Documents\repos\HaciendaViga2020API\HaciendaViga2020Api.Core.Abstractions\obj\Release\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.csproj.CopyComplete
+C:\Users\inspi\Documents\repos\HaciendaViga2020API\HaciendaViga2020Api.Core.Abstractions\obj\Release\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.dll
+C:\Users\inspi\Documents\repos\HaciendaViga2020API\HaciendaViga2020Api.Core.Abstractions\obj\Release\netcoreapp3.1\HaciendaViga2020Api.Core.Abstractions.pdb

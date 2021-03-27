@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vgarc\\source\\repos\\HaciendaViga2020Api\\HaciendaViga2020Api.Infrastructure\\HaciendaViga2020Api.Infrastructure.csproj": {}
+    "C:\\Users\\inspi\\Documents\\repos\\HaciendaViga2020API\\HaciendaViga2020Api.Infrastructure\\HaciendaViga2020Api.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vgarc\\source\\repos\\HaciendaViga2020Api\\HaciendaViga2020Api.Infrastructure.Abstractions\\HaciendaViga2020Api.Infrastructure.Abstractions.csproj": {
+    "C:\\Users\\inspi\\Documents\\repos\\HaciendaViga2020API\\HaciendaViga2020Api.Infrastructure.Abstractions\\HaciendaViga2020Api.Infrastructure.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vgarc\\source\\repos\\HaciendaViga2020Api\\HaciendaViga2020Api.Infrastructure.Abstractions\\HaciendaViga2020Api.Infrastructure.Abstractions.csproj",
+        "projectUniqueName": "C:\\Users\\inspi\\Documents\\repos\\HaciendaViga2020API\\HaciendaViga2020Api.Infrastructure.Abstractions\\HaciendaViga2020Api.Infrastructure.Abstractions.csproj",
         "projectName": "HaciendaViga2020Api.Infrastructure.Abstractions",
-        "projectPath": "C:\\Users\\vgarc\\source\\repos\\HaciendaViga2020Api\\HaciendaViga2020Api.Infrastructure.Abstractions\\HaciendaViga2020Api.Infrastructure.Abstractions.csproj",
-        "packagesPath": "C:\\Users\\vgarc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vgarc\\source\\repos\\HaciendaViga2020Api\\HaciendaViga2020Api.Infrastructure.Abstractions\\obj\\",
+        "projectPath": "C:\\Users\\inspi\\Documents\\repos\\HaciendaViga2020API\\HaciendaViga2020Api.Infrastructure.Abstractions\\HaciendaViga2020Api.Infrastructure.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\inspi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\inspi\\Documents\\repos\\HaciendaViga2020API\\HaciendaViga2020Api.Infrastructure.Abstractions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\vgarc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\inspi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -31,6 +32,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,6 +44,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -79,25 +82,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\vgarc\\source\\repos\\HaciendaViga2020Api\\HaciendaViga2020Api.Infrastructure\\HaciendaViga2020Api.Infrastructure.csproj": {
+    "C:\\Users\\inspi\\Documents\\repos\\HaciendaViga2020API\\HaciendaViga2020Api.Infrastructure\\HaciendaViga2020Api.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vgarc\\source\\repos\\HaciendaViga2020Api\\HaciendaViga2020Api.Infrastructure\\HaciendaViga2020Api.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\inspi\\Documents\\repos\\HaciendaViga2020API\\HaciendaViga2020Api.Infrastructure\\HaciendaViga2020Api.Infrastructure.csproj",
         "projectName": "HaciendaViga2020Api.Infrastructure",
-        "projectPath": "C:\\Users\\vgarc\\source\\repos\\HaciendaViga2020Api\\HaciendaViga2020Api.Infrastructure\\HaciendaViga2020Api.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\vgarc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vgarc\\source\\repos\\HaciendaViga2020Api\\HaciendaViga2020Api.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\inspi\\Documents\\repos\\HaciendaViga2020API\\HaciendaViga2020Api.Infrastructure\\HaciendaViga2020Api.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\inspi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\inspi\\Documents\\repos\\HaciendaViga2020API\\HaciendaViga2020Api.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\vgarc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\inspi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -110,9 +114,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\vgarc\\source\\repos\\HaciendaViga2020Api\\HaciendaViga2020Api.Infrastructure.Abstractions\\HaciendaViga2020Api.Infrastructure.Abstractions.csproj": {
-                "projectPath": "C:\\Users\\vgarc\\source\\repos\\HaciendaViga2020Api\\HaciendaViga2020Api.Infrastructure.Abstractions\\HaciendaViga2020Api.Infrastructure.Abstractions.csproj"
+              "C:\\Users\\inspi\\Documents\\repos\\HaciendaViga2020API\\HaciendaViga2020Api.Infrastructure.Abstractions\\HaciendaViga2020Api.Infrastructure.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\inspi\\Documents\\repos\\HaciendaViga2020API\\HaciendaViga2020Api.Infrastructure.Abstractions\\HaciendaViga2020Api.Infrastructure.Abstractions.csproj"
               }
             }
           }
@@ -125,6 +130,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -176,7 +182,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

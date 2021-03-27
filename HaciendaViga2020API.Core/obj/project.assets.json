@@ -652,25 +652,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vgarc\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\inspi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vgarc\\source\\repos\\HaciendaViga2020Api\\HaciendaViga2020API.Core\\HaciendaViga2020Api.Core.csproj",
+      "projectUniqueName": "C:\\Users\\inspi\\Documents\\repos\\HaciendaViga2020API\\HaciendaViga2020API.Core\\HaciendaViga2020Api.Core.csproj",
       "projectName": "HaciendaViga2020Api.Core",
-      "projectPath": "C:\\Users\\vgarc\\source\\repos\\HaciendaViga2020Api\\HaciendaViga2020API.Core\\HaciendaViga2020Api.Core.csproj",
-      "packagesPath": "C:\\Users\\vgarc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vgarc\\source\\repos\\HaciendaViga2020Api\\HaciendaViga2020API.Core\\obj\\",
+      "projectPath": "C:\\Users\\inspi\\Documents\\repos\\HaciendaViga2020API\\HaciendaViga2020API.Core\\HaciendaViga2020Api.Core.csproj",
+      "packagesPath": "C:\\Users\\inspi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\inspi\\Documents\\repos\\HaciendaViga2020API\\HaciendaViga2020API.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\vgarc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\inspi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -683,6 +684,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -694,6 +696,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "AutoMapper": {
             "target": "Package",
@@ -727,7 +730,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
